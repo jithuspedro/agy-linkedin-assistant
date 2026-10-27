@@ -1,0 +1,42 @@
+# Privacy Policy — AGY LinkedIn Assistant
+
+**Last updated:** October 27, 2026
+
+## 1. Introduction
+
+AGY LinkedIn Assistant is a personal tool designed to help its owner draft and publish posts to their LinkedIn profile through an authorized integration.
+
+## 2. Information We Access
+
+Depending on the integration, the application may access:
+- LinkedIn profile information necessary for authorization.
+- Permission to create posts on the user's behalf.
+- Post content explicitly provided or approved by the user.
+
+## 3. How Information Is Used
+
+Information is used only to authenticate the account, prepare LinkedIn posts, and publish content requested by the user.
+
+## 4. Data Storage and Sharing
+
+The application is intended for personal use. It does not intentionally sell personal information or share it with third parties for advertising. Authentication tokens, if stored, should be protected and accessible only to the application owner.
+
+## 5. Data Retention and Deletion
+
+The application should retain only information necessary for its operation. The owner can delete locally stored application data and revoke the application's LinkedIn authorization through LinkedIn's account settings.
+
+## 6. Security
+
+Reasonable measures should be used to protect credentials and access tokens. No method of electronic storage or transmission can be guaranteed completely secure.
+
+## 7. Third-Party Services
+
+LinkedIn processes account information and posts under its own terms and privacy policy. Use of LinkedIn APIs is subject to LinkedIn's applicable developer requirements.
+
+## 8. Changes to This Policy
+
+This policy may be updated when the application's functionality or data practices change.
+
+## 9. Contact
+
+For privacy-related questions, contact the application owner through the contact information associated with the developer application.
